@@ -1,26 +1,8 @@
 {
     "common": {
         "name": "luftdaten",
-        "version": "0.6.0",
+        "version": "0.0.1",
         "news": {
-            "0.6.0": {
-                "en": "Support of admin3",
-                "de": "Unterstützung von admin3",
-                "ru": "Поддержка admin3",
-                "pt": "Suporte de admin3",
-                "nl": "Ondersteuning van admin3",
-                "fr": "Support de admin3",
-                "it": "Supporto di admin3",
-                "es": "Soporte de admin3"
-            },
-            "0.5.0": {
-                "en": "beta version",
-                "de": "Betaversion",
-                "ru": "Бета версия",
-                "pt": "Versão beta",
-                "fr": "Version bêta",
-                "nl": "Beta versie"
-            },
             "0.0.1": {
                 "en": "initial adapter",
                 "de": "Initiale Version",
@@ -30,7 +12,7 @@
                 "nl": "Eerste release"
             }
         },
-		"title": "Javascript/Node.js based luftdaten",
+		"title": "Luftdaten Adapter",
         "titleLang": {
             "en": "Javascript/Node.js based luftdaten",
             "de": "Javascript / Node.js basierte Vorlagenadapter",
@@ -71,7 +53,7 @@
         "enabled": true,
         "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.luftdaten/master/admin/luftdaten.png",
         "keywords": ["luftdaten", "vis", "GUI", "graphical", "scada"],
-        "readme": "https://github.com/ioBroker/ioBroker.luftdaten/blob/master/README.md",
+        "readme": "https://github.com/Sven18/ioBroker.luftdaten/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
         "license": "MIT",
